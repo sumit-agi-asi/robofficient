@@ -7,5 +7,6 @@ It has RL methods based reward-punishment pipelines using RL algorithms such as 
 It has short term and long term memory and action tools.
 It tracks the objective constantly so that the agent is always pointed to exact objective.
 This design keeps experience of the past as priority and keeps it for agents awareness for future inference.
+This agentic framework removes most of limitations faced by all agentic frameworks available today, making them work like a well-disciplined brain, minimizing resource, memory and compute utilization. It can learn from the experience of other agents through A2A. It also keeps track of behavior of other agents, its experience of interactions with other agents through A2A - good or bad, is kept for future seeking of other agents.
 
-&copy; Aitomation Pvt Ltd 2026
+**&copy; Aitomation Pvt Ltd 2026**
